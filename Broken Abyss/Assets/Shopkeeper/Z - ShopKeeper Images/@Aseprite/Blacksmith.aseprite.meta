@@ -1,0 +1,1038 @@
+fileFormatVersion: 2
+guid: df6a0bf686df2754a8c8713f2c1e58fa
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Blacksmith_Frame_0
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 39
+      width: 15
+      height: 27
+    spriteID: 192b4d0cf898a3b40a4dca76a2d3fc47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 22}
+  - name: Blacksmith_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 74
+      width: 14
+      height: 28
+    spriteID: 7a86698e0139f474094910d00a062cba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 57}
+  - name: Blacksmith_Frame_2
+    originalName: 
+    pivot: {x: 0.5882353, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 74
+      width: 17
+      height: 28
+    spriteID: b975b5b018bc08142b771d4f350ff833
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 57}
+  - name: Blacksmith_Frame_3
+    originalName: 
+    pivot: {x: 0.5625, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 144
+      width: 16
+      height: 28
+    spriteID: 68f4fe7893ac84c46a73823068beb0de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 37, y: 127}
+  - name: Blacksmith_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 110
+      width: 14
+      height: 28
+    spriteID: 9809d1fffa61fe84e8f5cc89104cbb88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 93}
+  - name: Blacksmith_Frame_5
+    originalName: 
+    pivot: {x: 0.5625, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 180
+      width: 16
+      height: 27
+    spriteID: 08bd8997ceb5de64d9ce6079072ab306
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 37, y: 163}
+  - name: Blacksmith_Frame_6
+    originalName: 
+    pivot: {x: 0.6315789, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 39
+      width: 19
+      height: 27
+    spriteID: a16424ab40458484b80304fa0d837d06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 22}
+  - name: Blacksmith_Frame_7
+    originalName: 
+    pivot: {x: 0.6086957, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 23
+      height: 27
+    spriteID: 52973fc710adb66418c623dfcad96da5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: -13}
+  - name: Blacksmith_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 146
+      width: 14
+      height: 27
+    spriteID: db38b91ee8a30f84695291eacc728156
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 129}
+  - name: Blacksmith_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 181
+      width: 14
+      height: 27
+    spriteID: 2ef87849a2aa13744a0e4ff5eda571bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 164}
+  - name: Blacksmith_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 216
+      width: 14
+      height: 27
+    spriteID: 87db56897654a8645ba0b7acb93868dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 199}
+  - name: Blacksmith_Frame_11
+    originalName: 
+    pivot: {x: 0.4375, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 215
+      width: 16
+      height: 27
+    spriteID: 68c4f183d7dec724c99977a3ddfcf184
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: 198}
+  - name: Blacksmith_Frame_12
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 110
+      width: 17
+      height: 27
+    spriteID: 8b0d81ef4bb99134d931abd8c963896c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 93}
+  - name: Blacksmith_Frame_13
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 145
+      width: 17
+      height: 27
+    spriteID: 0dd5260d762bdd54781790fafc9f3b42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 128}
+  - name: Blacksmith_Frame_14
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 180
+      width: 17
+      height: 27
+    spriteID: e5faf085e062c2a4886e3dd3e8e9091b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 163}
+  - name: Blacksmith_Frame_15
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 215
+      width: 17
+      height: 27
+    spriteID: e38e5ef0a6f1eea4ca5075b9eb67fed7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 198}
+  - name: Blacksmith_Frame_16
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 4
+      width: 17
+      height: 27
+    spriteID: 179fa75690a0ad34caa8e75aa19f3ed4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: -13}
+  - name: Blacksmith_Frame_17
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 39
+      width: 17
+      height: 27
+    spriteID: dca8f8b9d24bd504ea4430e38f1a3bb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 22}
+  - name: Blacksmith_Frame_18
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 74
+      width: 17
+      height: 27
+    spriteID: 198e2481e9b3fc940a74c1420f659a9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 57}
+  - name: Blacksmith_Frame_19
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 109
+      width: 17
+      height: 27
+    spriteID: 84166e2500a3b7c459db1e2f26cb87c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 92}
+  - name: Blacksmith_Frame_20
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 144
+      width: 17
+      height: 27
+    spriteID: a6545d7c6b4560449a78ad09df12a149
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 127}
+  - name: Blacksmith_Frame_21
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 179
+      width: 17
+      height: 27
+    spriteID: 7027f34bf86bc194d9e242cf86a2fb86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 162}
+  - name: Blacksmith_Frame_22
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 214
+      width: 17
+      height: 27
+    spriteID: 62ddc3761bbb3b74a9d5b4c57d2eda11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 197}
+  - name: Blacksmith_Frame_23
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 4
+      width: 17
+      height: 27
+    spriteID: caccbdf3559e6354fbeceee48a8b93f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: -13}
+  - name: Blacksmith_Frame_24
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 39
+      width: 17
+      height: 27
+    spriteID: e5b0d945d7c3fcc40a123f32d07eccf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: 22}
+  - name: Blacksmith_Frame_25
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 74
+      width: 17
+      height: 27
+    spriteID: 5612b16dbd262ae4984135d4e63d3b8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: 57}
+  - name: Blacksmith_Frame_26
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 109
+      width: 17
+      height: 27
+    spriteID: a2a0a991bed203e449e8a250ff28f0ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: 92}
+  - name: Blacksmith_Frame_27
+    originalName: 
+    pivot: {x: 0.4375, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 4
+      width: 16
+      height: 27
+    spriteID: e1ef8fe605e4bac4b920ba18b7a9dfcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: -13}
+  - name: Blacksmith_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 4
+      width: 14
+      height: 27
+    spriteID: e974fad24bafd5c4e8ffe13ee3df735c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: -13}
+  - name: Blacksmith_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 39
+      width: 14
+      height: 27
+    spriteID: d9b03b5d57296d44b8554c083b4d8966
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 22}
+  - name: Blacksmith_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 74
+      width: 14
+      height: 27
+    spriteID: 2ad83bc92cfea74468733a8bdbb72b91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 57}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 738341628
+    name: Blacksmith
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Blacksmith_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 192b4d0cf898a3b40a4dca76a2d3fc47
+    - name: Blacksmith_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 7a86698e0139f474094910d00a062cba
+    - name: Blacksmith_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: b975b5b018bc08142b771d4f350ff833
+    - name: Blacksmith_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 68f4fe7893ac84c46a73823068beb0de
+    - name: Blacksmith_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 9809d1fffa61fe84e8f5cc89104cbb88
+    - name: Blacksmith_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 08bd8997ceb5de64d9ce6079072ab306
+    - name: Blacksmith_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: a16424ab40458484b80304fa0d837d06
+    - name: Blacksmith_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 52973fc710adb66418c623dfcad96da5
+    - name: Blacksmith_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: db38b91ee8a30f84695291eacc728156
+    - name: Blacksmith_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 2ef87849a2aa13744a0e4ff5eda571bd
+    - name: Blacksmith_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 87db56897654a8645ba0b7acb93868dd
+    - name: Blacksmith_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 68c4f183d7dec724c99977a3ddfcf184
+    - name: Blacksmith_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 8b0d81ef4bb99134d931abd8c963896c
+    - name: Blacksmith_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 0dd5260d762bdd54781790fafc9f3b42
+    - name: Blacksmith_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: e5faf085e062c2a4886e3dd3e8e9091b
+    - name: Blacksmith_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: e38e5ef0a6f1eea4ca5075b9eb67fed7
+    - name: Blacksmith_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 179fa75690a0ad34caa8e75aa19f3ed4
+    - name: Blacksmith_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: dca8f8b9d24bd504ea4430e38f1a3bb6
+    - name: Blacksmith_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 198e2481e9b3fc940a74c1420f659a9c
+    - name: Blacksmith_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 84166e2500a3b7c459db1e2f26cb87c2
+    - name: Blacksmith_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: a6545d7c6b4560449a78ad09df12a149
+    - name: Blacksmith_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 7027f34bf86bc194d9e242cf86a2fb86
+    - name: Blacksmith_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 62ddc3761bbb3b74a9d5b4c57d2eda11
+    - name: Blacksmith_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: caccbdf3559e6354fbeceee48a8b93f8
+    - name: Blacksmith_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: e5b0d945d7c3fcc40a123f32d07eccf3
+    - name: Blacksmith_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 5612b16dbd262ae4984135d4e63d3b8d
+    - name: Blacksmith_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: a2a0a991bed203e449e8a250ff28f0ed
+    - name: Blacksmith_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: e1ef8fe605e4bac4b920ba18b7a9dfcd
+    - name: Blacksmith_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: e974fad24bafd5c4e8ffe13ee3df735c
+    - name: Blacksmith_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: d9b03b5d57296d44b8554c083b4d8966
+    - name: Blacksmith_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: -16
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 2ad83bc92cfea74468733a8bdbb72b91
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}
