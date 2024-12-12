@@ -55,7 +55,7 @@ public class ShopkeeperUI : MonoBehaviour
 
     // OpenAI API fields
     private static readonly string apiUrl = "https://api.openai.com/v1/chat/completions";
-    private string apiKey = ""; // Replace with your actual OpenAI API key sk-d7cpBy2ie8U6U-3B2jmE1FxL8Js20s554THqS6jkgXT3BlbkFJPZDkKlq04RvjkHmUcc5-QJZmNkBrTP294xhJBZFyYA
+    private string apiKey = ""; // Replace with your actual OpenAI API key
     private HttpClient client;
     private bool apiFalse;
 
