@@ -5,6 +5,7 @@ Broken Abyss is a 2D top-down dungeon crawler built in Unity, inspired by retro 
 
 🌌 Game Overview
 Players descend into procedurally generated dungeons filled with enemies, loot, and secrets. Combat is strategic and fast-paced, featuring light and heavy attacks with distinct advantages. As players progress through increasingly difficult enemy waves, they encounter an AI-powered shopkeeper who offers items, lore, and dynamic dialogue. The game emphasizes tactical decision-making, resource management, and immersive storytelling.
+
 🔧 Tech Stack & Development
   - Engine: Unity (2D)
   - Language: C#
