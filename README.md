@@ -1,9 +1,11 @@
 This needs a ChatGPT API for the Shopkeeper dialogue to work.
 
 🕹️ Broken Abyss — A 2D AI-Enhanced Dungeon Crawler by Team Invictus
+
 Broken Abyss is a 2D top-down dungeon crawler built in Unity, inspired by retro classics like Legend of Zelda, Pokémon, and Stardew Valley. Developed by Team Invictus at the University of Houston–Clear Lake, the game blends nostalgic pixel art with modern mechanics, AI-driven storytelling, and wave-based combat to deliver a dynamic and replayable experience.
 
 🌌 Game Overview
+
 Players descend into procedurally generated dungeons filled with enemies, loot, and secrets. Combat is strategic and fast-paced, featuring light and heavy attacks with distinct advantages. As players progress through increasingly difficult enemy waves, they encounter an AI-powered shopkeeper who offers items, lore, and dynamic dialogue. The game emphasizes tactical decision-making, resource management, and immersive storytelling.
 
 🔧 Tech Stack & Development
@@ -38,4 +40,5 @@ Players descend into procedurally generated dungeons filled with enemies, loot, 
   - Joseph Phalen (AI & Game Logic, Scrum Master)
 
 🎯 Vision & Mission
+
 Our vision is to create an immersive, challenging, and technically impressive dungeon crawler that showcases our skills in AI integration, procedural generation, and gameplay design. We aim to deliver a polished MVP within a three-month development cycle, balancing scope with innovation.
